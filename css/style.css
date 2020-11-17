@@ -319,6 +319,10 @@ footer {
     margin-right: 50px;
     width: 23em;
 }
+    
+#jumbotron .btn {
+    width: 100%;
+}
 
 #tempat .middle-left-gradient, .bottom-right-gradient {
     display: none;
