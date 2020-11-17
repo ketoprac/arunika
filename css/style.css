@@ -314,9 +314,10 @@ footer {
 }
 
 #jumbotron img {
-    margin-top: 100px;
-    margin-left: 100px;
-    max-width: 400px;
+    float: inherit;
+    margin-top: 50px;
+    margin-right: 50px;
+    width: 23em;
 }
 
 #tempat .middle-left-gradient, .bottom-right-gradient {
